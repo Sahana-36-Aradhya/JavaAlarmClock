@@ -32,9 +32,4 @@ A simple console-based alarm clock built using Java. The application lets you se
 6. A beep sound will play when the time is reached.
 7. Press Enter to COMPLETED the alarm.
 
-### ✅ What to do next:
-- Save this content as `README.md` in your project root folder.
-- Push to GitHub using your usual flow:
-  git add README.md
-  git commit -m "Add project README"
-  git push
+
