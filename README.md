@@ -31,5 +31,3 @@ A simple console-based alarm clock built using Java. The application lets you se
 5. Wait for the system time to match the alarm time.
 6. A beep sound will play when the time is reached.
 7. Press Enter to COMPLETED the alarm.
-
-
